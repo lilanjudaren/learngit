@@ -24,6 +24,6 @@ HTTP BODY参数
       "model": "ONEPLUS A6000",
       "brand": "OnePlus"
     },
-    "city": "上海市"
+    "city": "海南市"
   }
 }
