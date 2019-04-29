@@ -1,0 +1,29 @@
+手机注册登录接口
+
+HTTP head参数：
+X-Droi-AppID:4akumbzhKr3qRkF6Y68Q0Jxn_jq_F_39lQAAkqga
+X-Droi-Api-Key":"tivDMJss5QriFYREkRw1_3wDgyfVhq__zGbsW_y2BpSzNoXYhaShgcSXMzutRmtu
+Content-Type":"application/json
+
+HTTP BODY参数
+
+{
+  "act": "loginsms",
+  "detail": {
+    "phone": "18100000002",
+    "verify": "111111",
+    "channel": "Test",
+    "fincode": "TOP_QUJIE",
+    "device": {
+      "uuid": "06ebe0a84362e0c4aa968fca9e7b80b7",
+      "imei": "869897035821296",
+      "ip": "192.168.4.41",
+      "mac": "64:A2:F9:23:4E:4F",
+      "soc": " Qualcomm Technologies, Inc SDM845",
+      "osver": "9",
+      "model": "ONEPLUS A6000",
+      "brand": "OnePlus"
+    },
+    "city": "上海市"
+  }
+}
